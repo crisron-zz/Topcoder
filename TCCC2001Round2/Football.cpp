@@ -1,5 +1,5 @@
 /*
- Problem Statement Link: [Football](https://community.topcoder.com/stat?c=problem_statement&pm=42&rd=2001)
+ Problem Statement Link: https://community.topcoder.com/stat?c=problem_statement&pm=42&rd=2001
 */
 
 #include <iostream>
